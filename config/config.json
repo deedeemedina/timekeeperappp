@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "russomp",
+    "password": "mysql",
+    "database": "timekeeper_dev",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "russomp",
+    "password": "mysql",
+    "database": "timekeeper_test",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "russomp",
+    "password": "mysql",
+    "database": "timekeeper_prod",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}
